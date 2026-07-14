@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-iuqi6h.wslk.me/sitemap.xml
